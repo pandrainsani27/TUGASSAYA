@@ -1,12 +1,7 @@
-# --- Library Utama ---
 streamlit
-
-# --- Data & Model (Versi WAJIB SAMA dengan Training) ---
 scikit-learn==1.5.1
 joblib==1.4.2
 pandas==2.2.2
 numpy
-
-# --- Dependensi Tambahan (Opsional/Aman) ---
 requests
 setuptools
