@@ -5,3 +5,4 @@ pandas==2.2.2
 numpy
 requests
 setuptools
+imbalanced-learn==0.12.3
